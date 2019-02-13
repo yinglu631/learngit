@@ -1,3 +1,3 @@
 git is a distributed version control system
-which is for free under the GPL
+which is for free under the GPL & simple
 modified on dev branch
